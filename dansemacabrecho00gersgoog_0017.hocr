@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dansemacabrecho00gersgoog_0017.png"; bbox 0 0 5844 7684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1099 3315 2102 3391">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1099 3315 2102 3391">
+     <span class='ocr_line' id='line_1_1' title="bbox 1099 3315 2102 3391; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 1099 3315 1442 3391; x_wconf 67' lang='lat' dir='ltr'>‘rYPOGRAPHffl</span> <span class='ocrx_word' id='word_1_2' title='bbox 1469 3319 1525 3374; x_wconf 89' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1558 3319 1728 3375; x_wconf 87' lang='lat' dir='ltr'>PILLET</span> <span class='ocrx_word' id='word_1_4' title='bbox 1759 3319 1815 3374; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_5' title='bbox 1848 3315 2102 3374; x_wconf 88' lang='lat' dir='ltr'>DUMOULIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1206 3461 1995 3530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1206 3461 1995 3530">
+     <span class='ocr_line' id='line_1_2' title="bbox 1206 3461 1995 3530; baseline -0.003 -14"><span class='ocrx_word' id='word_1_6' title='bbox 1206 3477 1273 3518; x_wconf 72' lang='lat' dir='ltr'>nus</span> <span class='ocrx_word' id='word_1_7' title='bbox 1304 3477 1364 3516; x_wconf 67' lang='lat' dir='ltr'>oss</span> <span class='ocrx_word' id='word_1_8' title='bbox 1395 3477 1767 3530; x_wconf 76' lang='lat' dir='ltr'>GRAan·AuousT1NS,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1797 3461 1823 3530; x_wconf 80' lang='lat'>5,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1850 3478 1869 3515; x_wconf 77' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_11' title='bbox 1897 3477 1995 3516; x_wconf 69' lang='lat' dir='ltr'>mus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2926 7684">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2926 7684">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2926 7684; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2926 7684; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
